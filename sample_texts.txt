@@ -1,1 +1,2 @@
 This is a file with one line.
+I've added another line. This makes it 2 lines.
